@@ -1,2 +1,5 @@
-# OCNI
-Software para gestión de convenios
+## OCNI ##
+
+**Software para gestión de convenios**
+
+>Requerimientos
